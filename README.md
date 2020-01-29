@@ -1,4 +1,4 @@
-## TestContainer-Tutorial
+## TestContainer
 
 #### Requirements
 - Docker
@@ -9,7 +9,6 @@
 ```gradle
 testImplementation("org.testcontainers:testcontainers:1.12.0")
 ```
-
 
 #### JUnit 4 
 ```java
